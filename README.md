@@ -1,2 +1,5 @@
-# openshift-terraform
-OpenShift Terraform
+# OpenShift Terraform
+
+OpenShift infrastructure automation using terraform.
+
+
