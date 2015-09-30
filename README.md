@@ -1,6 +1,6 @@
 # OpenShift Terraform
 
-OpenShift infrastructure automation using terraform.
+OpenShift infrastructure automation using terraform on OpenStack.
 
 ## Usage
 
